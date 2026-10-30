@@ -15,6 +15,7 @@
   "homepage": "https://github.com/novenasawa-png/first-project#readme",
   "private": true,
   "dependencies": {
-    "gsap": "^3.15.0"
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27"
   }
 }
